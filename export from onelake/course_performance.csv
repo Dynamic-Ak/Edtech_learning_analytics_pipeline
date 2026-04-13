@@ -1,0 +1,101 @@
+course_id,course_name,category,total_enrollments,completion_rate,avg_score,avg_time_spent_hours,avg_feedback_rating,certificate_issued_count,drop_rate
+CRS0084,Software Development - Module 84,Software Development,47,36.17,46.24,3.81,2.87,18,25.53
+CRS0003,Cybersecurity - Module 3,Cybersecurity,46,26.09,47.43,31.15,3.04,15,26.09
+CRS0100,Business Analytics - Module 100,Business Analytics,34,17.65,54.87,15.05,3.15,9,17.65
+CRS0045,Cloud Computing - Module 45,Cloud Computing,41,21.95,44.72,6.91,2.66,11,29.27
+CRS0012,Cloud Computing - Module 12,Cloud Computing,47,25.53,47.37,17.97,3.23,13,23.4
+CRS0022,UI/UX Design - Module 22,UI/UX Design,43,27.91,44.43,29.94,2.88,13,25.58
+CRS0068,Machine Learning - Module 68,Machine Learning,35,42.86,46.86,15.38,2.71,15,14.29
+CRS0090,Machine Learning - Module 90,Machine Learning,41,31.71,55.44,18.96,3.24,13,21.95
+CRS0029,Machine Learning - Module 29,Machine Learning,34,29.41,47.13,6.11,2.85,14,29.41
+CRS0061,Cybersecurity - Module 61,Cybersecurity,44,20.45,49.27,11.50,3.45,17,29.55
+CRS0039,Business Analytics - Module 39,Business Analytics,49,22.45,52.49,24.74,2.84,13,14.29
+CRS0047,UI/UX Design - Module 47,UI/UX Design,47,27.66,48.92,22.25,3.06,21,19.15
+CRS0091,UI/UX Design - Module 91,UI/UX Design,32,31.25,42.47,22.72,3.09,12,25.0
+CRS0011,Business Analytics - Module 11,Business Analytics,31,25.81,56.35,23.16,2.77,6,22.58
+CRS0067,Machine Learning - Module 67,Machine Learning,29,17.24,41.42,10.77,3.07,8,34.48
+CRS0008,Software Development - Module 8,Software Development,35,45.71,51.60,26.67,2.69,13,20.0
+CRS0028,DevOps - Module 28,DevOps,35,40.0,51.35,8.02,2.94,10,25.71
+CRS0071,Software Development - Module 71,Software Development,31,35.48,43.76,27.18,2.81,11,16.13
+CRS0023,Business Analytics - Module 23,Business Analytics,43,16.28,43.78,25.67,3.35,9,20.93
+CRS0017,Data Engineering - Module 17,Data Engineering,37,27.03,56.78,28.66,2.81,9,29.73
+CRS0026,Cybersecurity - Module 26,Cybersecurity,36,25.0,43.54,22.87,3.17,14,22.22
+CRS0097,Business Analytics - Module 97,Business Analytics,33,21.21,48.88,13.05,3.36,12,33.33
+CRS0014,Cybersecurity - Module 14,Cybersecurity,33,24.24,49.28,4.49,2.88,11,18.18
+CRS0060,Software Development - Module 60,Software Development,40,27.5,48.64,23.64,2.93,8,15.0
+CRS0018,UI/UX Design - Module 18,UI/UX Design,41,12.2,51.80,20.10,3.29,6,21.95
+CRS0062,UI/UX Design - Module 62,UI/UX Design,39,25.64,39.83,26.42,3.31,15,28.21
+CRS0082,Cybersecurity - Module 82,Cybersecurity,37,29.73,42.58,14.38,3.11,13,29.73
+CRS0089,Business Analytics - Module 89,Business Analytics,41,31.71,54.12,9.69,2.98,10,21.95
+CRS0080,Cloud Computing - Module 80,Cloud Computing,38,23.68,52.41,27.67,3.21,10,23.68
+CRS0004,Business Analytics - Module 4,Business Analytics,38,26.32,45.18,15.77,2.63,13,23.68
+CRS0077,UI/UX Design - Module 77,UI/UX Design,40,22.5,50.34,15.08,3.15,14,30.0
+CRS0037,Data Engineering - Module 37,Data Engineering,29,24.14,59.18,10.54,2.97,8,31.03
+CRS0005,Cybersecurity - Module 5,Cybersecurity,46,19.57,54.84,27.94,2.87,17,30.43
+CRS0066,Cybersecurity - Module 66,Cybersecurity,35,40.0,48.18,20.11,2.89,8,20.0
+CRS0072,Cloud Computing - Module 72,Cloud Computing,41,19.51,52.43,9.60,3.07,19,21.95
+CRS0083,UI/UX Design - Module 83,UI/UX Design,48,27.08,44.54,15.57,2.94,17,20.83
+CRS0048,Software Development - Module 48,Software Development,39,23.08,52.33,26.15,3.0,10,33.33
+CRS0095,Cloud Computing - Module 95,Cloud Computing,47,17.02,50.00,14.90,3.11,17,29.79
+CRS0086,UI/UX Design - Module 86,UI/UX Design,31,22.58,54.75,12.77,3.0,10,16.13
+CRS0051,Cybersecurity - Module 51,Cybersecurity,36,30.56,52.44,15.09,3.17,8,25.0
+CRS0027,Data Engineering - Module 27,Data Engineering,42,35.71,46.25,22.36,3.05,17,19.05
+CRS0009,Business Analytics - Module 9,Business Analytics,40,25.0,43.76,7.08,3.0,17,20.0
+CRS0088,UI/UX Design - Module 88,UI/UX Design,36,27.78,45.88,24.30,2.94,12,22.22
+CRS0087,Data Engineering - Module 87,Data Engineering,29,20.69,55.62,5.26,3.34,7,27.59
+CRS0031,DevOps - Module 31,DevOps,38,31.58,57.08,24.93,2.58,12,18.42
+CRS0038,Business Analytics - Module 38,Business Analytics,38,23.68,53.31,19.09,2.76,11,23.68
+CRS0076,DevOps - Module 76,DevOps,34,38.24,51.29,13.23,3.12,10,14.71
+CRS0013,Software Development - Module 13,Software Development,32,34.38,54.52,15.05,3.25,12,25.0
+CRS0042,Cloud Computing - Module 42,Cloud Computing,46,13.04,48.02,19.55,2.72,10,26.09
+CRS0034,Machine Learning - Module 34,Machine Learning,39,10.26,48.53,3.33,2.85,17,35.9
+CRS0073,Cloud Computing - Module 73,Cloud Computing,34,38.24,50.74,27.60,3.06,11,14.71
+CRS0021,UI/UX Design - Module 21,UI/UX Design,58,29.31,49.39,6.12,3.05,20,20.69
+CRS0099,Business Analytics - Module 99,Business Analytics,40,32.5,46.29,5.88,3.23,17,17.5
+CRS0032,Cloud Computing - Module 32,Cloud Computing,38,26.32,46.94,18.27,3.29,18,21.05
+CRS0063,DevOps - Module 63,DevOps,31,32.26,47.75,25.78,3.32,14,22.58
+CRS0098,Business Analytics - Module 98,Business Analytics,48,16.67,45.79,5.42,2.79,19,37.5
+CRS0001,Cloud Computing - Module 1,Cloud Computing,42,35.71,49.46,27.90,2.74,16,26.19
+CRS0081,Business Analytics - Module 81,Business Analytics,39,23.08,49.99,14.63,3.03,13,25.64
+CRS0094,Software Development - Module 94,Software Development,32,21.88,51.22,10.19,3.44,10,25.0
+CRS0093,Data Engineering - Module 93,Data Engineering,34,20.59,48.64,26.52,2.88,10,23.53
+CRS0041,Data Engineering - Module 41,Data Engineering,38,21.05,43.36,13.16,2.95,9,26.32
+CRS0057,Cybersecurity - Module 57,Cybersecurity,47,31.91,51.55,28.64,3.32,15,14.89
+CRS0079,Cybersecurity - Module 79,Cybersecurity,42,28.57,46.46,28.19,3.07,9,16.67
+CRS0056,Machine Learning - Module 56,Machine Learning,44,27.27,54.07,6.17,2.86,15,29.55
+CRS0015,UI/UX Design - Module 15,UI/UX Design,45,20.0,54.73,7.61,2.91,14,26.67
+CRS0069,UI/UX Design - Module 69,UI/UX Design,39,15.38,48.04,30.13,3.26,12,28.21
+CRS0025,Cloud Computing - Module 25,Cloud Computing,34,38.24,50.26,16.69,2.91,11,29.41
+CRS0065,Software Development - Module 65,Software Development,49,22.45,55.50,8.98,3.06,15,20.41
+CRS0053,UI/UX Design - Module 53,UI/UX Design,41,19.51,50.11,13.07,2.73,16,26.83
+CRS0002,Data Engineering - Module 2,Data Engineering,41,36.59,57.19,10.96,3.07,17,34.15
+CRS0006,Cloud Computing - Module 6,Cloud Computing,34,20.59,48.09,11.28,3.15,14,29.41
+CRS0033,DevOps - Module 33,DevOps,41,26.83,50.95,25.51,2.98,11,29.27
+CRS0010,Software Development - Module 10,Software Development,41,31.71,46.50,19.74,2.63,16,24.39
+CRS0070,Cloud Computing - Module 70,Cloud Computing,35,34.29,57.45,10.98,3.11,12,28.57
+CRS0030,Cybersecurity - Module 30,Cybersecurity,45,28.89,54.24,19.12,3.07,13,15.56
+CRS0085,DevOps - Module 85,DevOps,38,15.79,50.88,31.14,3.11,18,15.79
+CRS0058,Data Engineering - Module 58,Data Engineering,48,18.75,47.17,29.22,3.19,15,18.75
+CRS0052,Data Engineering - Module 52,Data Engineering,51,29.41,48.04,21.47,3.27,19,27.45
+CRS0024,Data Engineering - Module 24,Data Engineering,41,14.63,42.70,22.08,2.8,16,29.27
+CRS0019,Cloud Computing - Module 19,Cloud Computing,39,12.82,34.89,15.05,2.77,10,28.21
+CRS0040,DevOps - Module 40,DevOps,53,35.85,47.49,27.30,3.0,20,20.75
+CRS0050,DevOps - Module 50,DevOps,47,14.89,52.98,32.03,3.23,21,29.79
+CRS0064,DevOps - Module 64,DevOps,46,19.57,42.35,25.38,3.13,17,23.91
+CRS0049,Data Engineering - Module 49,Data Engineering,51,29.41,48.60,30.47,2.94,19,31.37
+CRS0092,UI/UX Design - Module 92,UI/UX Design,52,28.85,51.28,10.53,3.46,18,26.92
+CRS0055,Software Development - Module 55,Software Development,43,41.86,59.13,16.57,3.12,11,25.58
+CRS0035,Cloud Computing - Module 35,Cloud Computing,38,15.79,45.87,30.47,3.39,16,28.95
+CRS0054,DevOps - Module 54,DevOps,53,24.53,45.83,21.98,3.0,20,16.98
+CRS0044,Machine Learning - Module 44,Machine Learning,42,42.86,56.58,27.45,3.1,16,9.52
+CRS0020,Cloud Computing - Module 20,Cloud Computing,52,26.92,49.11,8.34,3.35,16,17.31
+CRS0078,Data Engineering - Module 78,Data Engineering,44,20.45,51.15,17.99,3.25,17,18.18
+CRS0036,Software Development - Module 36,Software Development,39,20.51,52.82,22.59,3.26,17,12.82
+CRS0043,Data Engineering - Module 43,Data Engineering,39,33.33,58.14,16.75,3.31,14,17.95
+CRS0075,Machine Learning - Module 75,Machine Learning,34,17.65,56.13,18.21,2.85,10,23.53
+CRS0016,DevOps - Module 16,DevOps,32,21.88,50.99,16.74,2.75,13,31.25
+CRS0059,Cybersecurity - Module 59,Cybersecurity,42,30.95,46.94,25.35,2.86,14,21.43
+CRS0074,Business Analytics - Module 74,Business Analytics,36,22.22,53.66,23.16,3.33,11,22.22
+CRS0007,Machine Learning - Module 7,Machine Learning,42,16.67,40.06,23.90,3.05,11,21.43
+CRS0096,Cybersecurity - Module 96,Cybersecurity,34,20.59,44.85,33.44,2.97,10,38.24
+CRS0046,Machine Learning - Module 46,Machine Learning,29,34.48,34.80,17.14,3.1,12,17.24
