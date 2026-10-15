@@ -1,0 +1,101 @@
+course_id,course_name,category,instructor_id,duration_hours,difficulty_level,price_usd,is_free,rating,enrollment_count,published_date,language,has_certificate
+CRS0001,Cloud Computing - Module 1,Cloud Computing,INS001,52,Advanced,122.45,False,4.5,8945,2020-06-27,German,True
+CRS0002,Data Engineering - Module 2,Data Engineering,INS003,18,Intermediate,252.68,True,4.1,8938,2022-05-09,Spanish,False
+CRS0003,Cybersecurity - Module 3,Cybersecurity,INS001,53,Intermediate,349.07,False,3.6,3537,2021-11-20,English,True
+CRS0004,Business Analytics - Module 4,Business Analytics,INS004,27,Advanced,301.86,True,4.5,8795,2020-09-12,German,True
+CRS0005,Cybersecurity - Module 5,Cybersecurity,INS020,60,Advanced,288.68,True,3.1,3743,2021-08-15,English,True
+CRS0006,Cloud Computing - Module 6,Cloud Computing,INS013,22,Expert,317.84,False,3.3,5830,2021-03-05,French,True
+CRS0007,Machine Learning - Module 7,Machine Learning,INS018,51,Intermediate,81.7,False,3.5,9135,2021-03-25,French,True
+CRS0008,Software Development - Module 8,Software Development,INS002,56,Advanced,200.58,True,3.4,9302,2021-10-06,Spanish,False
+CRS0009,Business Analytics - Module 9,Business Analytics,INS015,14,Advanced,69.82,False,4.5,7029,2023-04-10,German,False
+CRS0010,Software Development - Module 10,Software Development,INS005,37,Expert,45.45,True,4.7,2514,2020-11-23,German,True
+CRS0011,Business Analytics - Module 11,Business Analytics,INS013,43,Expert,264.56,True,4.4,1886,2023-01-04,French,False
+CRS0012,Cloud Computing - Module 12,Cloud Computing,INS010,32,Intermediate,226.86,False,4.9,2937,2022-11-05,English,False
+CRS0013,Software Development - Module 13,Software Development,INS005,28,Intermediate,269.69,True,4.2,8015,2020-02-09,English,False
+CRS0014,Cybersecurity - Module 14,Cybersecurity,INS008,8,Intermediate,439.0,True,3.2,7972,2020-05-21,Spanish,True
+CRS0015,UI/UX Design - Module 15,UI/UX Design,INS018,15,Advanced,263.84,False,4.9,8845,2021-02-15,French,False
+CRS0016,DevOps - Module 16,DevOps,INS015,38,Expert,60.5,False,3.1,354,2023-02-08,Spanish,True
+CRS0017,Data Engineering - Module 17,Data Engineering,INS003,50,Beginner,114.47,True,4.7,1170,2022-11-18,Spanish,False
+CRS0018,UI/UX Design - Module 18,UI/UX Design,INS007,39,Intermediate,361.68,False,3.5,7759,2022-04-13,Spanish,True
+CRS0019,Cloud Computing - Module 19,Cloud Computing,INS014,27,Expert,205.55,True,4.3,1622,2020-05-04,German,False
+CRS0020,Cloud Computing - Module 20,Cloud Computing,INS008,17,Intermediate,268.14,False,3.8,4573,2022-08-05,Spanish,True
+CRS0021,UI/UX Design - Module 21,UI/UX Design,INS018,11,Beginner,326.07,True,4.9,3882,2020-12-06,German,False
+CRS0022,UI/UX Design - Module 22,UI/UX Design,INS007,60,Expert,451.22,False,3.8,6406,2021-06-27,German,False
+CRS0023,Business Analytics - Module 23,Business Analytics,INS018,47,Expert,77.4,False,3.4,968,2023-04-01,English,False
+CRS0024,Data Engineering - Module 24,Data Engineering,INS002,42,Expert,251.43,False,3.1,8330,2020-06-13,Spanish,True
+CRS0025,Cloud Computing - Module 25,Cloud Computing,INS008,30,Beginner,470.8,False,4.2,661,2020-06-16,German,False
+CRS0026,Cybersecurity - Module 26,Cybersecurity,INS007,47,Advanced,119.34,False,3.3,4925,2022-07-25,French,True
+CRS0027,Data Engineering - Module 27,Data Engineering,INS015,44,Beginner,36.63,False,4.0,2180,2021-12-15,English,True
+CRS0028,DevOps - Module 28,DevOps,INS010,15,Expert,416.87,False,4.2,8676,2020-01-17,French,True
+CRS0029,Machine Learning - Module 29,Machine Learning,INS009,12,Beginner,371.21,False,3.5,9919,2021-03-07,French,True
+CRS0030,Cybersecurity - Module 30,Cybersecurity,INS017,36,Advanced,452.67,True,3.2,6949,2021-07-20,English,True
+CRS0031,DevOps - Module 31,DevOps,INS005,45,Advanced,80.79,False,4.1,7017,2023-02-22,English,True
+CRS0032,Cloud Computing - Module 32,Cloud Computing,INS005,39,Beginner,417.3,False,3.9,695,2021-09-23,French,True
+CRS0033,DevOps - Module 33,DevOps,INS007,48,Intermediate,333.47,False,4.6,6668,2020-11-12,Spanish,True
+CRS0034,Machine Learning - Module 34,Machine Learning,INS014,6,Intermediate,368.28,False,4.6,6755,2021-05-23,French,True
+CRS0035,Cloud Computing - Module 35,Cloud Computing,INS013,60,Beginner,429.3,False,3.4,7551,2021-12-17,French,True
+CRS0036,Software Development - Module 36,Software Development,INS001,47,Intermediate,199.23,False,4.7,4583,2021-12-20,German,False
+CRS0037,Data Engineering - Module 37,Data Engineering,INS004,21,Intermediate,290.29,False,3.1,9784,2022-06-08,French,False
+CRS0038,Business Analytics - Module 38,Business Analytics,INS020,37,Beginner,192.6,False,3.5,7154,2020-01-04,Spanish,False
+CRS0039,Business Analytics - Module 39,Business Analytics,INS003,47,Advanced,311.58,True,4.4,4930,2022-11-04,French,False
+CRS0040,DevOps - Module 40,DevOps,INS013,49,Advanced,277.21,False,3.8,6221,2020-12-22,French,False
+CRS0041,Data Engineering - Module 41,Data Engineering,INS010,23,Intermediate,214.94,False,3.9,7254,2021-03-13,German,True
+CRS0042,Cloud Computing - Module 42,Cloud Computing,INS010,37,Advanced,46.69,False,4.3,3690,2021-02-11,Spanish,True
+CRS0043,Data Engineering - Module 43,Data Engineering,INS008,35,Beginner,227.71,False,4.4,6301,2022-10-09,German,True
+CRS0044,Machine Learning - Module 44,Machine Learning,INS001,53,Beginner,389.21,False,3.4,8496,2022-08-09,English,True
+CRS0045,Cloud Computing - Module 45,Cloud Computing,INS015,13,Expert,333.79,False,4.9,7261,2022-10-30,German,False
+CRS0046,Machine Learning - Module 46,Machine Learning,INS016,33,Advanced,375.89,False,4.5,8550,2022-09-19,Spanish,False
+CRS0047,UI/UX Design - Module 47,UI/UX Design,INS003,50,Advanced,117.25,False,3.6,8859,2020-06-14,Spanish,True
+CRS0048,Software Development - Module 48,Software Development,INS013,49,Intermediate,353.21,True,3.8,5431,2023-01-16,German,False
+CRS0049,Data Engineering - Module 49,Data Engineering,INS007,58,Expert,194.74,True,4.7,9442,2022-02-18,German,True
+CRS0050,DevOps - Module 50,DevOps,INS010,53,Expert,426.72,False,4.1,8957,2021-03-27,German,True
+CRS0051,Cybersecurity - Module 51,Cybersecurity,INS014,36,Beginner,194.43,False,4.4,7667,2020-09-18,English,False
+CRS0052,Data Engineering - Module 52,Data Engineering,INS003,46,Expert,67.85,False,3.4,4272,2022-02-15,French,True
+CRS0053,UI/UX Design - Module 53,UI/UX Design,INS011,26,Expert,139.13,False,3.5,1351,2022-08-21,English,True
+CRS0054,DevOps - Module 54,DevOps,INS008,46,Beginner,390.62,True,4.5,4061,2021-02-12,English,True
+CRS0055,Software Development - Module 55,Software Development,INS005,35,Beginner,281.98,False,3.9,4208,2022-01-25,Spanish,True
+CRS0056,Machine Learning - Module 56,Machine Learning,INS010,11,Beginner,464.44,False,3.8,3259,2020-06-04,Spanish,True
+CRS0057,Cybersecurity - Module 57,Cybersecurity,INS020,56,Beginner,398.11,True,3.7,7028,2022-01-28,English,False
+CRS0058,Data Engineering - Module 58,Data Engineering,INS014,57,Expert,52.77,False,4.3,7542,2020-11-09,German,True
+CRS0059,Cybersecurity - Module 59,Cybersecurity,INS020,56,Expert,232.44,False,3.6,4032,2020-06-26,French,False
+CRS0060,Software Development - Module 60,Software Development,INS015,41,Expert,168.2,False,4.7,2989,2022-09-25,Spanish,False
+CRS0061,Cybersecurity - Module 61,Cybersecurity,INS011,22,Advanced,277.9,False,3.2,6668,2022-09-27,Spanish,False
+CRS0062,UI/UX Design - Module 62,UI/UX Design,INS015,55,Beginner,46.53,False,3.8,3996,2021-09-19,French,False
+CRS0063,DevOps - Module 63,DevOps,INS014,52,Advanced,175.91,False,3.5,4128,2021-04-17,English,True
+CRS0064,DevOps - Module 64,DevOps,INS004,52,Intermediate,95.77,False,3.6,9669,2022-12-10,French,True
+CRS0065,Software Development - Module 65,Software Development,INS010,19,Advanced,89.72,True,4.4,2083,2021-07-15,English,True
+CRS0066,Cybersecurity - Module 66,Cybersecurity,INS005,45,Expert,51.29,True,4.1,7700,2022-09-07,German,False
+CRS0067,Machine Learning - Module 67,Machine Learning,INS002,21,Expert,57.04,True,3.8,1223,2023-03-27,English,True
+CRS0068,Machine Learning - Module 68,Machine Learning,INS019,24,Beginner,496.96,True,4.1,6828,2021-04-07,German,False
+CRS0069,UI/UX Design - Module 69,UI/UX Design,INS010,60,Expert,152.69,True,4.2,1635,2021-03-01,Spanish,False
+CRS0070,Cloud Computing - Module 70,Cloud Computing,INS006,20,Intermediate,276.0,False,3.0,7391,2022-08-20,French,True
+CRS0071,Software Development - Module 71,Software Development,INS010,50,Advanced,351.49,False,3.1,3834,2021-06-25,Spanish,False
+CRS0072,Cloud Computing - Module 72,Cloud Computing,INS018,19,Intermediate,454.21,False,3.1,2728,2021-09-21,French,False
+CRS0073,Cloud Computing - Module 73,Cloud Computing,INS015,49,Advanced,349.87,False,4.0,8100,2022-06-15,English,True
+CRS0074,Business Analytics - Module 74,Business Analytics,INS011,43,Advanced,12.93,False,4.9,9434,2020-02-12,French,True
+CRS0075,Machine Learning - Module 75,Machine Learning,INS016,38,Expert,458.04,False,5.0,7151,2022-10-04,English,False
+CRS0076,DevOps - Module 76,DevOps,INS014,26,Advanced,335.07,False,3.7,8127,2021-08-13,German,True
+CRS0077,UI/UX Design - Module 77,UI/UX Design,INS003,25,Advanced,161.64,False,4.7,28,2023-01-16,German,False
+CRS0078,Data Engineering - Module 78,Data Engineering,INS007,38,Advanced,311.32,False,4.3,855,2021-02-20,French,True
+CRS0079,Cybersecurity - Module 79,Cybersecurity,INS015,49,Expert,60.71,False,4.4,5101,2023-02-02,English,False
+CRS0080,Cloud Computing - Module 80,Cloud Computing,INS008,58,Beginner,230.72,True,4.3,2532,2022-10-17,French,False
+CRS0081,Business Analytics - Module 81,Business Analytics,INS016,35,Intermediate,228.39,False,3.8,9830,2022-11-06,Spanish,True
+CRS0082,Cybersecurity - Module 82,Cybersecurity,INS014,26,Advanced,410.27,False,4.5,9626,2023-04-02,German,True
+CRS0083,UI/UX Design - Module 83,UI/UX Design,INS018,35,Advanced,166.22,False,3.9,5282,2021-01-21,Spanish,False
+CRS0084,Software Development - Module 84,Software Development,INS014,7,Advanced,372.35,False,3.8,2502,2022-10-11,English,True
+CRS0085,DevOps - Module 85,DevOps,INS004,60,Expert,49.86,False,3.0,2371,2022-04-19,Spanish,True
+CRS0086,UI/UX Design - Module 86,UI/UX Design,INS009,26,Expert,324.92,False,4.7,8752,2022-02-17,French,False
+CRS0087,Data Engineering - Module 87,Data Engineering,INS020,9,Intermediate,315.58,False,5.0,1490,2022-06-07,English,True
+CRS0088,UI/UX Design - Module 88,UI/UX Design,INS006,49,Advanced,451.71,True,3.6,929,2021-08-23,French,False
+CRS0089,Business Analytics - Module 89,Business Analytics,INS005,20,Expert,282.96,False,3.3,1303,2022-02-22,Spanish,False
+CRS0090,Machine Learning - Module 90,Machine Learning,INS008,34,Advanced,229.79,True,4.8,7632,2021-08-12,Spanish,True
+CRS0091,UI/UX Design - Module 91,UI/UX Design,INS012,42,Advanced,319.47,False,4.4,7494,2021-09-10,Spanish,False
+CRS0092,UI/UX Design - Module 92,UI/UX Design,INS004,20,Expert,285.96,False,5.0,4847,2020-02-14,German,False
+CRS0093,Data Engineering - Module 93,Data Engineering,INS019,60,Beginner,455.31,False,4.7,4699,2021-04-16,French,True
+CRS0094,Software Development - Module 94,Software Development,INS020,21,Intermediate,314.12,True,3.6,7232,2020-03-09,French,True
+CRS0095,Cloud Computing - Module 95,Cloud Computing,INS010,25,Expert,87.82,False,4.6,6004,2022-12-23,French,True
+CRS0096,Cybersecurity - Module 96,Cybersecurity,INS016,56,Advanced,373.28,False,4.6,7683,2020-06-03,Spanish,True
+CRS0097,Business Analytics - Module 97,Business Analytics,INS018,28,Beginner,395.34,True,3.5,2034,2022-07-20,French,False
+CRS0098,Business Analytics - Module 98,Business Analytics,INS012,11,Intermediate,235.74,False,4.8,3636,2020-05-09,German,False
+CRS0099,Business Analytics - Module 99,Business Analytics,INS004,13,Beginner,473.13,False,5.0,1912,2020-07-18,Spanish,True
+CRS0100,Business Analytics - Module 100,Business Analytics,INS015,28,Expert,293.67,False,4.8,1632,2022-09-29,German,False
